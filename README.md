@@ -10,4 +10,4 @@ Technologies:
 * *JUnit*
 * *JTwig*
 * *Gradle*
-* *GitHub Packages* -> need to add GitHub Package token of user for correct work!
+* *GitHub Packages* -> need to add GitHub Package user token for correct work!

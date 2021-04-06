@@ -130,7 +130,7 @@ public class BackendTest extends BaseTest{
     }
 
     @Test
-    void testApplicationCanSaveMessageToDatabase2() {
+    void testApplicationCanDeleteMessageFromDatabase() {
         dbService.deleteById(1);
 
         List<Deal> deal = dbService.findBySource("RwbyawhFDStH");
